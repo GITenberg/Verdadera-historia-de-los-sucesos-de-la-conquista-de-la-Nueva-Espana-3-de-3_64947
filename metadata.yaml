@@ -1,5 +1,8 @@
 _repo: Verdadera-historia-de-los-sucesos-de-la-conquista-de-la-Nueva-Espana-3-de-3_64947
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64947-h/images/cover.jpg
 creator:
   author:
     agent_name: Díaz del Castillo, Bernal
@@ -17,6 +20,8 @@ creator:
     - https://es.wikipedia.org/wiki/Bernal_D%C3%ADaz_del_Castillo
     - https://en.wikipedia.org/wiki/Bernal_D%C3%ADaz_del_Castillo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64947#Verdadera-historia-de-los-sucesos-de-la-conquista-de-la-Nueva-Espana-3-de-3
 gutenberg_issued: '2021-03-28'
 gutenberg_type: Text
 identifiers:
