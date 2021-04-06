@@ -1,0 +1,34 @@
+_repo: Verdadera-historia-de-los-sucesos-de-la-conquista-de-la-Nueva-Espana-3-de-3_64947
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Díaz del Castillo, Bernal
+    aliases:
+    - Diaz del Castillo, Bernal
+    - Del Castillo, Bernal Díaz
+    - Díaz, Bernal
+    - Castillo, Bernal Díaz del
+    - Díaz del Castillo, Bernardo
+    birthdate: 1496
+    deathdate: 1584
+    gutenberg_agent_id: '35868'
+    url: http://www.gutenberg.org/2009/agents/35868
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Bernal_D%C3%ADaz_del_Castillo
+    - https://en.wikipedia.org/wiki/Bernal_D%C3%ADaz_del_Castillo
+description: ''
+gutenberg_issued: '2021-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64947'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexico -- History -- Conquest, 1519-1540'
+- !lcc 'F1201'
+- GITenberg
+title: Verdadera historia de los sucesos de la conquista de la Nueva-España (3 de
+  3)
+url: http://www.gutenberg.org/ebooks/64947
